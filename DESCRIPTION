@@ -1,0 +1,14 @@
+Package: ventR
+Type: Package
+Title: ventR: Analysis of Mouse Ventilator Data
+Version: 0.1.0
+Authors@R: person('Allan', 'Bruinooge', email = "ajbruinooge@protonmail.com",
+               role = c('aut', 'cre'))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GNU AGPLv3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  tidyverse
+RoxygenNote: 6.1.1
