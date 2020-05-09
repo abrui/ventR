@@ -12,3 +12,5 @@ LazyData: true
 Imports: 
   tidyverse
 RoxygenNote: 6.1.1
+URL: https://github.com/abrui/ventR
+BugReports: https://github.com/abrui/ventR/issues
